@@ -6,6 +6,7 @@ Substituir: Replace(char, char), Replace(string, string) - troca uma letra ou um
 Buscar: IndexOf, LastIndexOf  - buscar o indice por uma string/char ou a ultimo indice daquela string/char
 str.Split(" ") - Pega uma string e divide em array por um separador definido no argumento
 String.format("%.2f",string)
+f
 ------------------------------------------------------------------------------
 CAP 10 - Comportamento de memoria,arrays,list
 Classes primitivas precisam ser iniciaadas na sua declaração (nao aceitam null)
